@@ -1,2 +1,2 @@
 # samplepage
-I am using git and github 
+I am using git and gitandgithub 
